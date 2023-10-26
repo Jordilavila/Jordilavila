@@ -1,6 +1,13 @@
-# Jordilavila
-
 Soy **Jordi S. Enríquez**, un estudiante de Ingeniería Informática en la Universidad de Alicante. Actualmente estoy cursando el tercer curso de la carrera y me gustaría especializarme en el campo de la **Ciberseguridad**.
+
+# Estadísticas de GitHub
+
+Suelo utilizar mucho Github para mis proyectos personales, por lo que me gusta tenerlo actualizado y ordenado. Además, me gusta utilizar todas las posibilidades que ofrece para ser lo más eficiente y productivo posible.
+
+![Trofeos](https://github-trophies.vercel.app/?username=Jordilavila&no-bg=true&no-frame=true&rank=SSS,SS,S,AAA,AA,A,B,C&file=2&column=3&margin-w=5&margin-h=5)
+![Trofeos secretos](https://github-trophies.vercel.app/?username=Jordilavila&no-bg=true&no-frame=true&rank=SECRET&file=2&column=2&margin-w=5&margin-h=5)
+![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=Jordilavila&theme=transparent&title_color=00000000&bg_color=00000000&hide_border=true&layout=compact&langs_count=6)
+![Racha](https://github-readme-streak-stats.herokuapp.com/?user=Jordilavila&theme=transparent&hide_border=true&stroke=00000000&date_format=j%20M%5B%20Y%5D&mode=weekly&locale=es)
 
 # Conocimientos tecnológicos
 
