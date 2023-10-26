@@ -1,3 +1,7 @@
+<p align="center">
+    <img src=".github/readme/banner.png" alt="Jordi S. Enríquez" width="800"/>
+</p>
+
 Soy **Jordi S. Enríquez**, un estudiante de Ingeniería Informática en la Universidad de Alicante. Actualmente estoy cursando el tercer curso de la carrera y me gustaría especializarme en el campo de la **Ciberseguridad**.
 
 # Estadísticas de GitHub
