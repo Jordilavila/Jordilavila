@@ -82,19 +82,17 @@ La siguiente tabla muestra los lenguajes que he utilizado y mi nivel de conocimi
                     <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white" alt="Windows">
                     <img src="https://img.shields.io/badge/Linux%20Mint-87CF3E?style=flat&logo=Linux%20Mint&logoColor=white" alt="Mint">
                     <img src="https://img.shields.io/badge/Manjaro-35BF5C?style=flat&logo=Manjaro&logoColor=white" alt="Manjaro">
-                    <img src="https://img.shields.io/badge/Mac%20OS-000000?style=flat&logo=macos&logoColor=F0F0F0" alt="MacOS">
+                    <img src="https://img.shields.io/badge/MacOS-000000?style=flat&logo=macos&logoColor=F0F0F0" alt="MacOS">
                     <img src="https://img.shields.io/badge/openSUSE-%2364B345?style=flat&logo=openSUSE&logoColor=white" alt="openSUSE">
                 </td>
                 <td>
                     <img src="https://img.shields.io/badge/Arch%20Linux-%231793D1.svg?style=flat&logo=arch-linux&logoColor=white" alt="Arch Linux">
-                    <img src="https://img.shields.io/badge/Kali%20Purple-%23AE078C.svg?style=flat&logo=kali-linux&logoColor=white" alt="Kali Purple">
-                    <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white" alt="Windows">
+                    <img src="https://img.shields.io/badge/Gentoo-%23E0661A.svg?style=flat&logo=gentoo&logoColor=white" alt="Gentoo">
                 </td>
             </tr>
             <tr>
                 <td>Control de Versiones</td>
                 <td>
-                    <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white" alt="Git">
                     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white" alt="GitHub">
                     <img src="https://img.shields.io/badge/GitHub%20Actions-%232088FF.svg?style=flat&logo=github-actions&logoColor=white" alt="GitHub Actions">
                     <img src="https://img.shields.io/badge/GitKraken-%23179287.svg?style=flat&logo=gitkraken&logoColor=white" alt="GitKraken">
@@ -110,7 +108,6 @@ La siguiente tabla muestra los lenguajes que he utilizado y mi nivel de conocimi
                     <img src="https://img.shields.io/badge/Markdown-%23151515.svg?style=flat&logo=markdown&logoColor=white" alt="Markdown">
                 </td>
                 <td>
-                    <img src="https://img.shields.io/badge/GitBook-%233884FF.svg?style=flat&logo=gitbook&logoColor=white" alt="GitBook">
                     <img src="https://img.shields.io/badge/Latex-%23008080.svg?style=flat&logo=latex&logoColor=white" alt="LaTeX">
                 </td>
             </tr>
@@ -127,13 +124,57 @@ La siguiente tabla muestra los lenguajes que he utilizado y mi nivel de conocimi
             </tr>
             -->
             <tr>
-                <td><i>Otros</i></td>
+                <td>Otros</td>
                 <td>
                     <img src="https://img.shields.io/badge/Raspberry%20Pi-%23C51A4A.svg?style=flat&logo=raspberry-pi&logoColor=white" alt="Raspberry Pi">
                 </td>
                 <td>
-                    <img src="https://img.shields.io/badge/Warp-%2301A4FF.svg?style=flat&logo=warp&logoColor=white" alt="Warp">
                     <img src="https://img.shields.io/badge/Gimp-%235C5543.svg?style=flat&logo=gimp&logoColor=white" alt="Gimp">
+                </td>
+            </tr>
+            <tr>
+                <td> <!-- Espacio vacío --> </td>
+                <td colspan=2>
+                    <b>Cloud</b>
+                </td>
+            </tr>
+            <tr>
+                <td>Google Cloud</td>
+                <td>
+                </td>
+                <td>
+                    <img src="https://img.shields.io/badge/Google%20Cloud%20Build-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white" alt="Google Cloud Build">
+                    <img src="https://img.shields.io/badge/Google%20Cloud%20Run-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white" alt="Google Cloud Run">
+                    <img src="https://img.shields.io/badge/Google%20Cloud%20SQL-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white" alt="Google Cloud SQL">
+                    <img src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white" alt="Google Cloud">
+                    <img src="https://img.shields.io/badge/Google%20Cloud%20Functions-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white" alt="Google Cloud Functions">
+                    <img src="https://img.shields.io/badge/Google%20Cloud%20Run-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white" alt="Google Cloud Run">
+                    <img src="https://img.shields.io/badge/Google%20Cloud%20Storage-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white" alt="Google Cloud Storage">
+                </td>
+            </tr>
+            <tr>
+                <td>Amazon Web Services</td>
+                <td>
+                </td>
+                <td>
+                    <img src="https://img.shields.io/badge/Amazon%20CloudFront-%23232F3E.svg?style=flat&logo=amazon-cloudfront&logoColor=white" alt="Amazon CloudFront">
+                    <img src="https://img.shields.io/badge/Amazon%20Elastic%20Beanstalk-%23232F3E.svg?style=flat&logo=amazon-elastic-beanstalk&logoColor=white" alt="Amazon Elastic Beanstalk">
+                    <img src="https://img.shields.io/badge/Amazon%20RDS-%23232F3E.svg?style=flat&logo=amazon-rds&logoColor=white" alt="Amazon RDS">
+                    <img src="https://img.shields.io/badge/Amazon%20AWS-%23232F3E.svg?style=flat&logo=amazon-aws&logoColor=white" alt="Amazon AWS">
+                    <img src="https://img.shields.io/badge/Amazon%20EC2-%23232F3E.svg?style=flat&logo=amazon-ec2&logoColor=white" alt="Amazon EC2">
+                    <img src="https://img.shields.io/badge/Amazon%20S3-%23232F3E.svg?style=flat&logo=amazon-s3&logoColor=white" alt="Amazon S3">
+                </td>
+            </tr>
+            <tr>
+                <td>Microsoft Azure</td>
+                <td>
+                </td>
+                <td>
+                    <img src="https://img.shields.io/badge/Microsoft%20Azure%20App%20Service-%230072C6.svg?style=flat&logo=microsoft-azure&logoColor=white" alt="Microsoft Azure App Service">
+                    <img src="https://img.shields.io/badge/Microsoft%20Azure%20SQL%20Database-%230072C6.svg?style=flat&logo=microsoft-azure&logoColor=white" alt="Microsoft Azure SQL Database">
+                    <img src="https://img.shields.io/badge/Microsoft%20Azure-%230072C6.svg?style=flat&logo=microsoft-azure&logoColor=white" alt="Microsoft Azure">
+                    <img src="https://img.shields.io/badge/Microsoft%20Azure%20Functions-%230072C6.svg?style=flat&logo=microsoft-azure&logoColor=white" alt="Microsoft Azure Functions">
+                    <img src="https://img.shields.io/badge/Microsoft%20Azure%20Storage-%230072C6.svg?style=flat&logo=microsoft-azure&logoColor=white" alt="Microsoft Azure Storage">
                 </td>
             </tr>
             <!--
@@ -194,3 +235,9 @@ La siguiente tabla muestra los lenguajes que he utilizado y mi nivel de conocimi
             -->
         </tbody>
     </table>
+
+# Aficiones
+
+Adoro el mundo de la música. Toco la guitarra desde hace más de 10 años y me encanta escuchar música de todo tipo. También me dedico al mundo de la música de forma profesional, ya que he trabajado como técnico de sonido en varios eventos y conciertos y, actualmente, trabajo como DJ en un pub.
+
+
