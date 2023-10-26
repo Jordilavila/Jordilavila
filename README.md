@@ -40,17 +40,13 @@ La siguiente tabla muestra los lenguajes que he utilizado y mi nivel de conocimi
                     <img src="https://img.shields.io/badge/Bash-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white" alt="Bash">
                     <img src="https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white" alt="C">
                     <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white" alt="C++">
-                    <img src="https://img.shields.io/badge/Haskell-5e5086?style=flat&logo=haskell&logoColor=white" alt="Haskell">
                     <img src="https://img.shields.io/badge/Java-%23DD4F39.svg?style=flat&logo=oracle&logoColor=white" alt="Java">
-                    <img src="https://img.shields.io/badge/Lua-%232C2D72.svg?style=flat&logo=lua&logoColor=white" alt="Lua">
                     <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white" alt="Python">
+                    <img src="https://img.shields.io/badge/NodeJS-%2343853D.svg?style=flat&logo=node.js&logoColor=white" alt="NodeJS">
                 </td>
                 <td>
-                    <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat&logo=go&logoColor=white" alt="Go">
-                    <img src="https://img.shields.io/badge/Nim-%23FFE953.svg?style=flat&logo=nim&logoColor=black" alt="Nim">
                     <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white" alt="PowerShell">
                     <img src="https://img.shields.io/badge/Ruby-%23CC342D.svg?style=flat&logo=ruby&logoColor=white" alt="Ruby">
-                    <img src="https://img.shields.io/badge/Rust-%23000000.svg?style=flat&logo=rust&logoColor=white" alt="Rust">
                     <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white" alt="TypeScript">
                 </td>
             </tr>
@@ -71,17 +67,23 @@ La siguiente tabla muestra los lenguajes que he utilizado y mi nivel de conocimi
                 <td>
                     <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white" alt="Docker">
                     <img src="https://img.shields.io/badge/VirtualBox-%23183A61.svg?style=flat&logo=virtualbox&logoColor=white" alt="VirtualBox">
-                    <img src="https://img.shields.io/badge/Vagrant-%231868F2.svg?style=flat&logo=vagrant&logoColor=white" alt="Vagrant">
                 </td>
                 <td>
                     <img src="https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=flat&logo=kubernetes&logoColor=white" alt="Kubernetes">
                     <img src="https://img.shields.io/badge/VMware-%23607078.svg?style=flat&logo=vmware&logoColor=white" alt="VMware">
+                    <img src="https://img.shields.io/badge/Vagrant-%231868F2.svg?style=flat&logo=vagrant&logoColor=white" alt="Vagrant">
                 </td>
             <tr>
                 <td>Sistemas Operativos</td>
                 <td>
                     <img src="https://img.shields.io/badge/Debian-%23A81D33.svg?style=flat&logo=debian&logoColor=white" alt="Debian">
                     <img src="https://img.shields.io/badge/Kali%20Linux-%23080636.svg?style=flat&logo=kali-linux&logoColor=white" alt="Kali Linux">
+                    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white" alt="Ubuntu">
+                    <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white" alt="Windows">
+                    <img src="https://img.shields.io/badge/Linux%20Mint-87CF3E?style=flat&logo=Linux%20Mint&logoColor=white" alt="Mint">
+                    <img src="https://img.shields.io/badge/Manjaro-35BF5C?style=flat&logo=Manjaro&logoColor=white" alt="Manjaro">
+                    <img src="https://img.shields.io/badge/Mac%20OS-000000?style=flat&logo=macos&logoColor=F0F0F0" alt="MacOS">
+                    <img src="https://img.shields.io/badge/openSUSE-%2364B345?style=flat&logo=openSUSE&logoColor=white" alt="openSUSE">
                 </td>
                 <td>
                     <img src="https://img.shields.io/badge/Arch%20Linux-%231793D1.svg?style=flat&logo=arch-linux&logoColor=white" alt="Arch Linux">
@@ -94,28 +96,25 @@ La siguiente tabla muestra los lenguajes que he utilizado y mi nivel de conocimi
                 <td>
                     <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white" alt="Git">
                     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white" alt="GitHub">
-                    <img src="https://img.shields.io/badge/GitLab-%23FC6D26.svg?style=flat&logo=gitlab&logoColor=white" alt="GitLab">
-                    <img src="https://img.shields.io/badge/Bitbucket-%230052CC.svg?style=flat&logo=bitbucket&logoColor=white" alt="Bitbucket">
+                    <img src="https://img.shields.io/badge/GitHub%20Actions-%232088FF.svg?style=flat&logo=github-actions&logoColor=white" alt="GitHub Actions">
                     <img src="https://img.shields.io/badge/GitKraken-%23179287.svg?style=flat&logo=gitkraken&logoColor=white" alt="GitKraken">
-                    <img src="https://img.shields.io/badge/Conventional%20Commits-%23FE5196.svg?style=flat&logo=conventional-commits&logoColor=white" alt="Conventional Commits">
                 </td>
                 <td>
-                    <img src="https://img.shields.io/badge/GitHub%20Actions-%232088FF.svg?style=flat&logo=github-actions&logoColor=white" alt="GitHub Actions">
+                    <img src="https://img.shields.io/badge/GitLab-%23FC6D26.svg?style=flat&logo=gitlab&logoColor=white" alt="GitLab">
+                    <img src="https://img.shields.io/badge/Bitbucket-%230052CC.svg?style=flat&logo=bitbucket&logoColor=white" alt="Bitbucket">
                 </tr>
             </tr>
             <tr>
                 <td>Documentación</td>
                 <td>
-                    <img src="https://img.shields.io/badge/Latex-%23008080.svg?style=flat&logo=latex&logoColor=white" alt="LaTeX">
                     <img src="https://img.shields.io/badge/Markdown-%23151515.svg?style=flat&logo=markdown&logoColor=white" alt="Markdown">
-                    <img src="https://img.shields.io/badge/Notion-%23FFFFFF.svg?style=flat&logo=notion&logoColor=black" alt="Notion">
-                    <img src="https://img.shields.io/badge/Obsidian-%23483699.svg?style=flat&logo=obsidian&logoColor=white" alt="Obsidian">
-                    <img src="https://img.shields.io/badge/Overleaf-%2347A141.svg?style=flat&logo=overleaf&logoColor=white" alt="Overleaf">
                 </td>
                 <td>
                     <img src="https://img.shields.io/badge/GitBook-%233884FF.svg?style=flat&logo=gitbook&logoColor=white" alt="GitBook">
+                    <img src="https://img.shields.io/badge/Latex-%23008080.svg?style=flat&logo=latex&logoColor=white" alt="LaTeX">
                 </td>
             </tr>
+            <!--
             <tr>
                 <td>Web</td>
                 <td>
@@ -126,22 +125,20 @@ La siguiente tabla muestra los lenguajes que he utilizado y mi nivel de conocimi
                     <img src="https://img.shields.io/badge/Astro-%23000000.svg?style=flat&logo=astro&logoColor=white" alt="Astro">
                 </td>
             </tr>
-            <!--
+            -->
             <tr>
                 <td><i>Otros</i></td>
                 <td>
+                    <img src="https://img.shields.io/badge/Raspberry%20Pi-%23C51A4A.svg?style=flat&logo=raspberry-pi&logoColor=white" alt="Raspberry Pi">
                 </td>
                 <td>
-                    <img src="https://img.shields.io/badge/Vim-%23019733.svg?style=flat&logo=vim&logoColor=white" alt="Vim">
-                    <img src="https://img.shields.io/badge/Neovim-%2357A143.svg?style=flat&logo=neovim&logoColor=white" alt="Neovim">
-                    <img src="https://img.shields.io/badge/Raspberry%20Pi-%23C51A4A.svg?style=flat&logo=raspberry-pi&logoColor=white" alt="Raspberry Pi">
                     <img src="https://img.shields.io/badge/Warp-%2301A4FF.svg?style=flat&logo=warp&logoColor=white" alt="Warp">
                     <img src="https://img.shields.io/badge/Gimp-%235C5543.svg?style=flat&logo=gimp&logoColor=white" alt="Gimp">
                 </td>
             </tr>
-            -->
+            <!--
             <tr>
-                <td> <!-- Vacío --> </td>
+                <td> </td>
                 <td colspan=2>
                     <b>Ciberseguridad</b>
                 </td>
@@ -194,5 +191,6 @@ La siguiente tabla muestra los lenguajes que he utilizado y mi nivel de conocimi
                     <img src="https://img.shields.io/badge/OpenVPN-%23EA7E20.svg?style=flat&logo=openvpn&logoColor=white" alt="OpenVPN">
                     <img src="https://img.shields.io/badge/Wireguard-%2388171A.svg?style=flat&logo=wireguard&logoColor=white" alt="Wireguard">
                 </tr>
+            -->
         </tbody>
     </table>
